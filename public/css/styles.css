@@ -14,3 +14,12 @@ body {
   color: #fff;
   background-color: #000;
 }
+
+.btn-google {
+  color: #fff;
+  background-color: #DD4B39;
+}
+
+.btn-google:hover {
+  color: #fff;
+}
